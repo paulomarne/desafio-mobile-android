@@ -6,7 +6,6 @@
     android:layout_marginStart="@dimen/horizontalMarginSmall"
     android:layout_marginEnd="@dimen/horizontalMarginSmall"
     app:cardCornerRadius="@dimen/cornerMedium"
-    style="@style/CardViewDayNight"
     android:elevation="@dimen/cardview_default_elevation"
     xmlns:tools="http://schemas.android.com/tools">
 
@@ -17,7 +16,7 @@
         <TextView
             android:id="@+id/itemCharacterNameTv"
             tools:text="Ipsum Lorem"
-            style="@style/TextMedium"
+            style="@style/TextAppearance.AppCompat.Medium"
             android:layout_marginTop="@dimen/horizontalMarginMedium"
             android:layout_marginStart="@dimen/horizontalMarginMedium"
             android:layout_marginEnd="@dimen/horizontalMarginMedium"
