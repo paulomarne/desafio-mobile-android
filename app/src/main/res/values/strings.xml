@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Desafio Mobile Marvel</string>
+
+    <string name="ERROR_UNEXPECTED">Um erro inesperado ocorreu. Tente novamente mais tarde.</string>
+    <string name="ERROR_INTERNET_CONNECTION">Conexão à internet necessária para uso da applicação.</string>
+
+    <string name="msg_loading">Carregando base de dados do J.A.R.V.I.S., por favor aguarde…</string>
+    <string name="msg_no_description">Este item não possui descrição</string>
+    <string name="msg_no_comics">Houve um problema ao carregar os comics deste personagem. Tente novamente mais tarde, ou visualize outro personagem</string>
+    <string name="msg_no_items">Não foi possível carregar os itens da lista. Por favor, tente novamente mais tarde</string>
+
+    <string name="description">Descrição</string>
+    <string name="description_character_image">Imagem contendo um personagem</string>
+    <string name="name">Nome</string>
+    <string name="num_pages">%d páginas</string>
+</resources>
