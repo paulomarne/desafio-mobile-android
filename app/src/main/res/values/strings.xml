@@ -1,16 +1,36 @@
 <resources>
-    <string name="app_name">Desafio Mobile Marvel</string>
+    <string name="app_name">Poc Marvel</string>
 
-    <string name="ERROR_UNEXPECTED">Um erro inesperado ocorreu. Tente novamente mais tarde.</string>
-    <string name="ERROR_INTERNET_CONNECTION">Conexão à internet necessária para uso da applicação.</string>
+    <!--    Splash Activity -->
+    <string name="marvel">MARVEL</string>
 
-    <string name="msg_loading">Carregando base de dados do J.A.R.V.I.S., por favor aguarde…</string>
-    <string name="msg_no_description">Este item não possui descrição</string>
-    <string name="msg_no_comics">Houve um problema ao carregar os comics deste personagem. Tente novamente mais tarde, ou visualize outro personagem</string>
-    <string name="msg_no_items">Não foi possível carregar os itens da lista. Por favor, tente novamente mais tarde</string>
+    <!--    Item character and Item comic -->
+    <string name="tx_item_name">Nome</string>
+    <string name="tv_item_description">O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo.</string>
+    <string name="text_description_empty">Esse personagem não possui descrição.</string>
+    <string name="comics">Comics</string>
 
-    <string name="description">Descrição</string>
-    <string name="description_character_image">Imagem contendo um personagem</string>
-    <string name="name">Nome</string>
-    <string name="num_pages">%d páginas</string>
+    <!--    Details Character Fragment -->
+    <string name="empty_list_comics">Esse personagem não possui comics</string>
+    <string name="close_dialog">Fechar</string>
+
+    <!--    Search Character Fragment -->
+    <string name="search_hint">Pesquise um personagem</string>
+
+    <!--    Dialog delete -->
+    <string name="dialog_title_text">DELETAR</string>
+    <string name="dialog_message_text">Deseja realmente deletar esse personagem?</string>
+    <string name="dialog_positive_text">Deletar</string>
+    <string name="dialog_negative_text">Cancelar</string>
+
+    <!--    Favorite Character Fragment -->
+    <string name="message_delete_character">Deletado com sucesso!</string>
+    <string name="tv_empty_text">Nada aqui.</string>
+
+    <!--    Menu details -->
+    <string name="favorite">Favoritar</string>
+
+    <!--    Toast messages -->
+    <string name="an_error_occurred">Um erro ocorreu!</string>
+    <string name="saved_successfully">Salvo com sucesso!</string>
 </resources>
